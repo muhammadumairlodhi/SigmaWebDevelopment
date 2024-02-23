@@ -1,0 +1,5 @@
+This is the file for Reading function file test
+
+
+
+This is the content pass with the help of append file methodThis is the content pass with the help of append file methodThis is the content pass with the help of append file methodThis is the content pass with the help of append file method
